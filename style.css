@@ -1,6 +1,7 @@
 #weekplanner{
     width:20px;
     height:400px;
+
   }
   #reading{
     width:200px;
@@ -47,9 +48,9 @@
     
   }
   #contact{
-    position: absolute;
+    position:absolute;
     right:50px;
-    bottom:20px; 
+    bottom:70px; 
   }
   
   /* Add a hover effect if you want */
